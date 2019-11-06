@@ -1,0 +1,4 @@
+C:\Users\user14\Desktop\Khvashchevskii and Puskarev 284\g284_Khvashchevskii_Pushkarev\g284_Khvashchevskii_Pushkarev\bin\Debug\g284_Khvashchevskii_Pushkarev.exe.config
+C:\Users\user14\Desktop\Khvashchevskii and Puskarev 284\g284_Khvashchevskii_Pushkarev\g284_Khvashchevskii_Pushkarev\obj\Debug\g284_Khvashchevskii_Pushkarev.Form1.resources
+C:\Users\user14\Desktop\Khvashchevskii and Puskarev 284\g284_Khvashchevskii_Pushkarev\g284_Khvashchevskii_Pushkarev\obj\Debug\g284_Khvashchevskii_Pushkarev.Properties.Resources.resources
+C:\Users\user14\Desktop\Khvashchevskii and Puskarev 284\g284_Khvashchevskii_Pushkarev\g284_Khvashchevskii_Pushkarev\obj\Debug\g284_Khvashchevskii_Pushkarev.csproj.GenerateResource.Cache

@@ -1,0 +1,2 @@
+create table Planet ( PlanetName NVARCHAR(50), DistanceFromSun FLOAT, Inhabitants  NVARCHAR(50));
+INSERT INTO Planet (PlanetName, DistanceFromSun, Inhabitants);
